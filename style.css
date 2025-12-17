@@ -39,6 +39,8 @@ body {
     height: auto;
 }
 
+}
+
 
 .producto-info {
     flex: 1;
@@ -92,5 +94,6 @@ body {
         text-align: center;
     }
 }
+
 
 
